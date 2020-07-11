@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently imporving My Web Development Stack.
 - 🤔 I’m looking for help with thinking about thinking. 
