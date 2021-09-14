@@ -9,13 +9,26 @@
 
 <br />
 
-### Connect with me:
+### Profile Visits
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vishwajeetraj11)
 
-<br />
+### Follow on Social Networks
+
+  <a href="https://www.linkedin.com/in/vishwajeetraj11/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
+  </a>&ensp;
+
+  <a href="https://twitter.com/Vishwajeet323/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
+  </a>&ensp;
+
+  <a href="https://www.instagram.com/vishwajeet.js/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
+  </a>&ensp;
+  <a href="https://www.youtube.com/channel/UCU7LV8eGRUmidJklEekn07Q">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
+  </a>&ensp;
 
 ### Languages and Tools:
 
@@ -51,3 +64,6 @@
 [instagram]: https://www.instagram.com/vishwajeetraj11/
 [linkedin]: https://www.linkedin.com/in/vishwajeetraj11/
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetraj11&count_private=true&theme=tokyonight&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwajeetraj11&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
+[![Milind's github activity graph](https://activity-graph.herokuapp.com/graph?username=vishwajeetraj11&theme=github)](https://github.com/thatbeautifuldream/github-readme-activity-graph)
