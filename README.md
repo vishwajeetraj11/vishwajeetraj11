@@ -66,4 +66,3 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetraj11&count_private=true&theme=tokyonight&hide=contribs,prs)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwajeetraj11&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
-[![Milind's github activity graph](https://activity-graph.herokuapp.com/graph?username=vishwajeetraj11&theme=github)](https://github.com/thatbeautifuldream/github-readme-activity-graph)
