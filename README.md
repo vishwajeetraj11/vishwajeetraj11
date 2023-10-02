@@ -9,9 +9,6 @@
 
 <br />
 
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vishwajeetraj11)
 
 ### Follow on Social Networks
 
@@ -65,4 +62,4 @@
 [linkedin]: https://www.linkedin.com/in/vishwajeetraj11/
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetraj11&count_private=true&theme=tokyonight&hide=contribs,prs)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwajeetraj11&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,prs)
+
