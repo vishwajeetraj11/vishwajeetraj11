@@ -51,9 +51,6 @@
 - [Get your game up with JavaScript: Understanding Variables](https://vishwajeetraj11.hashnode.dev/get-your-game-up-with-javascript-understanding-variables)
 <!-- BLOG-POST-LIST:END -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetraj11&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwajeetraj11&show_icons=true&hide_border=true" />
 
 
