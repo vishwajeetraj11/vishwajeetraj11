@@ -42,6 +42,12 @@
 <br />
 <br />
 
+### 📘 Live Projects  
+Expensasaurus: https://expensasaurus.vercel.app/  
+OS Resume (Resume Builder): - https://osresume.co.in   
+Quizo - Quiz Builder and Assessment Tool (MERN): https://quizco-app.netlify.app/  
+Project Board (Project Management Application): https://projectboard.vercel.app/  
+
 
 ### 📘 Latest Blog Articles
 
@@ -50,12 +56,6 @@
 - [Introducing OS Resume (Oversimplified Resume Builder)](https://vishwajeetraj11.hashnode.dev/introducing-os-resume-oversimplified-resume-builder)
 - [Get your game up with JavaScript: Understanding Variables](https://vishwajeetraj11.hashnode.dev/get-your-game-up-with-javascript-understanding-variables)
 <!-- BLOG-POST-LIST:END -->
-
-### 📘 Live Projects  
-Expensasaurus: https://expensasaurus.vercel.app/  
-OS Resume (Resume Builder): - https://osresume.co.in   
-Quizo - Quiz Builder and Assessment Tool (MERN): https://quizco-app.netlify.app/  
-Project Board (Project Management Application): https://projectboard.vercel.app/  
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwajeetraj11&show_icons=true&hide_border=true" />
 
