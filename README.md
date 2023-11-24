@@ -38,8 +38,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 
-
-<br />
 <br />
 
 ### 📘 Live Projects  
@@ -47,7 +45,6 @@ Expensasaurus: https://expensasaurus.vercel.app/
 OS Resume (Resume Builder): - https://osresume.co.in   
 Quizo - Quiz Builder and Assessment Tool (MERN): https://quizco-app.netlify.app/  
 Project Board (Project Management Application): https://projectboard.vercel.app/  
-
 
 ### 📘 Latest Blog Articles
 
