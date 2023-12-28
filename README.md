@@ -44,7 +44,14 @@
 Expensasaurus: https://expensasaurus.vercel.app/  
 OS Resume (Resume Builder): - https://osresume.co.in   
 Quizo - Quiz Builder and Assessment Tool (MERN): https://quizco-app.netlify.app/  
-Project Board (Project Management Application): https://projectboard.vercel.app/  
+Project Board (Project Management Application): https://projectboard.vercel.app/   
+
+### 📘 AI Projects  
+AI Chat PDF: https://github.com/vishwajeetraj11/ai-chatpdf  
+AI Course Builder: https://github.com/vishwajeetraj11/ai-course-builder
+AI Ebook Builder: https://github.com/vishwajeetraj11/hackout-ai-ebook-builder
+AI Audio Consume: https://github.com/vishwajeetraj11/ai-audio-consume
+AI Quiz Builder + Assessment Tool: https://github.com/vishwajeetraj11/quizco-frontend
 
 ### 📘 Latest Blog Articles
 
