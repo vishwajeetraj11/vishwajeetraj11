@@ -61,12 +61,9 @@ AI Quiz Builder + Assessment Tool: https://github.com/vishwajeetraj11/quizco-fro
 - [Get your game up with JavaScript: Understanding Variables](https://vishwajeetraj11.hashnode.dev/get-your-game-up-with-javascript-understanding-variables)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwajeetraj11&show_icons=true&hide_border=true" />
-
 
 [twitter]: https://twitter.com/Vishwajeet323
 [instagram]: https://www.instagram.com/vishwajeetraj11/
 [linkedin]: https://www.linkedin.com/in/vishwajeetraj11/
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetraj11&count_private=true&theme=tokyonight&hide=contribs,prs)
 
